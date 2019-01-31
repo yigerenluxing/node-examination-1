@@ -1,15 +1,23 @@
 # node-examination
 
-Building a RESTful CRUD API with Node.js, Express/Koa and MongoDB.
+Building a RESTful CRUD API with Node.js(>=v10.15.0), Express/Koa and MongoDB/MySQL.
 
-- Node.js: >= v10.15.0
+## Usage
+
+```
+// API documentation
+$ git clone git@github.com:bridge5/node-examination.git
+$ cd node-examination/swagger
+$ npm start
+
+$ open http://localhost:3030
+```
 
 ## Tasks
 
-1. Please add pagination support to the list when there are more than 5 entries
-2. Please add option to select position of a player SF/PG and display it
-3. Please add tests using your preferred testing tool (chai, mocha, Jasmine ...).
-4. Please add some features that could help you show your personal abilities.
+1. Please read the API documentation and implement the feature.
+2. Please add tests using your preferred testing tool (chai, mocha, Jasmine ...).
+3. Please add some features that could help you show your personal abilities.
 
 ## Objectives
 
