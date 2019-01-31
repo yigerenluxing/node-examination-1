@@ -16,6 +16,9 @@
   "devDependencies": {
     "chai": "^4.2.0"
   },
+  "engines": {
+    "node": ">=10.15.0"
+  },
   "browserslist": [
     ">0.2%",
     "not dead",
