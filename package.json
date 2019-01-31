@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "node-examination",
+  "version": "0.0.1",
+  "description": "Building a RESTful CRUD API with Node.js, Express/Koa and MongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.8"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

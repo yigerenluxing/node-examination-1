@@ -1,6 +1,6 @@
 # node-examination
 
-Build a RESTful CRUD API with Node.js, Express/Koa and MongoDB.
+Building a RESTful CRUD API with Node.js, Express/Koa and MongoDB.
 
 - Node.js: >= v10.15.0
 - MongoDB: >= v4.0
