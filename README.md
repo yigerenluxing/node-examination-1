@@ -1,12 +1,9 @@
 # node-examination
 
-## Usage
+Build a RESTful CRUD API with Node.js, Express/Koa and MongoDB.
 
-```
-yarn install
-yarn start
-open http://localhost:3000
-```
+- Node.js: >= v10.15.0
+- MongoDB: >= v4.0
 
 ## Tasks
 
