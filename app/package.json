@@ -10,8 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "^4.16.4",
-    "mongoose": "^5.4.8"
+    "express": "^4.17.1",
+    "mongoose": "^5.9.2"
   },
   "devDependencies": {
     "chai": "^4.2.0"

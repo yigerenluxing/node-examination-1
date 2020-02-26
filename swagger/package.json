@@ -13,8 +13,8 @@
   "license": "Unlicense",
   "private": true,
   "dependencies": {
-    "connect": "^3.6.6",
-    "js-yaml": "^3.12.1",
+    "connect": "^3.7.0",
+    "js-yaml": "^3.13.1",
     "swagger-tools": "0.10.4"
   }
 }
