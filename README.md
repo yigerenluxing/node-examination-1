@@ -2,17 +2,6 @@
 
 Building a RESTful CRUD API with Node.js(>=v10.15.0), Express/Koa and MongoDB/MySQL.
 
-## Usage
-
-```
-// API documentation
-$ git clone git@github.com:bridge5/node-examination.git
-$ cd node-examination/swagger
-$ npm start
-
-$ open http://localhost:3030
-```
-
 ## Tasks
 
 1. Please read the API documentation and implement the feature.
@@ -23,3 +12,9 @@ $ open http://localhost:3030
 
 - Please check for small things like syntax errors, since details matter.
 - Please deliver something that works, non working project is an automatic disqualification.
+
+## 步骤
+
+- 第一步：克隆这个仓库到你自己的账号里。
+- 第二步：完成下列任务。
+- 第三步：发送 * Pull Request*  到仓库 *bridge5/node-examination*。
